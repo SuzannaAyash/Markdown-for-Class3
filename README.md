@@ -15,4 +15,4 @@
 
 [This is a hyperlink to OpenAI's website](https://www.openai.com)
 
-![This is an alt text for an image](https://example.com/broken-image-url.png)
+![This is an alt text for an image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/640px-PNG_transparency_demonstration_1.png)
